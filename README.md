@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pranav-Priyank
+- 👀 I’m interested in coding, front end development, project handling and management.
+- 🌱 I’m currently learning JavaScript development, IOT applications through voice recognition.
+- 💞️ I’m looking to collaborate on web development or JavaScript development projects, Public Relations management or Community managementn projects.
+- 📫 How to reach me ... email ID - pranav46pat@gmail.com
