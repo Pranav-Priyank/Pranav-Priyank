@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding, front end development, project handling and management.
 - 🌱 I’m currently learning JavaScript development, IOT applications through voice recognition.
 - 💞️ I’m looking to collaborate on web development or JavaScript development projects, Public Relations management or Community management projects.
-- 📫 How to reach me ... email ID - pranav46pat@gmail.com
+- 📫 How to reach me ... email ID - pranav46pat@gmail.com| mob - +91-8227866080| instagram ID - @_the_knight_of_darkness_
